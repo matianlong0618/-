@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-active-record/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-assembly/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-auto-fill-metainfo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-crud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-deluxe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-dts-rabbit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-dynamic-tablename/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-enum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-execution-analysis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-id-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-logic-delete/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-optimistic-locker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-pagination/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-performance-analysis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-quickstart-springmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-reduce-springmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-resultmap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-sequence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-sql-injector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-tenant/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-typehandler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-plus-sample-wrapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
